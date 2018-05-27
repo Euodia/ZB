@@ -1,0 +1,48 @@
+<!--index.wxml-->
+<view class="container">
+<view class="boxSearch">
+<view class="roundRect">
+<i class="iconfont icon-magnifier"></i>
+
+</view>
+</view>
+<view class="boxImage">
+<image class="widget__arrow" src="/images/鱼片.jpg" mode="scaleToFill">  
+</image> 
+</view>
+<view class="boxBig">
+<view class="box">
+<i class="iconfont icon-xinpinicon"></i>
+<view style='font-size:10px'>新品上架</view>
+</view>
+<view class="box">
+<i class="iconfont icon-huodong"></i>
+<view style='font-size:10px'>活动报名</view>
+</view>
+<view class="box">
+<i class="iconfont icon-paixingbang"></i>
+<view style='font-size:10px'>热销排行</view>
+</view>
+<view class="box">
+<i class="iconfont icon-yduizhekou"></i>
+<view style='font-size:10px'>折扣专区</view>
+</view>
+</view>
+<view class="boxLine">
+品牌专区
+</view>
+
+<view class="boxImage">
+<image class="widget__arrow" src="pages/index/images/冰淇淋.jpg" mode="scaleToFill">  
+</image> 
+</view>
+<view class="boxImage">
+<image class="widget__arrow" src="pages/index/images/薯片.jpg" mode="scaleToFill">  
+</image> 
+<view class="boxImage">
+<image class="widget__arrow" src="pages/index/images/榴莲.jpg" mode="scaleToFill">  
+</image> 
+</view>
+</view>
+</view>
+

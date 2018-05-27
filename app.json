@@ -1,0 +1,43 @@
+{
+  "pages":[
+        "pages/index/index",
+    "pages/shopping/shopping"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#FF0000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pages/dhl/首页.png",
+        "selectedIconPath": "pages/dhl/首页 (1).png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "分类",
+        "iconPath": "pages/dhl/分类 (2).png",
+        "selectedIconPath": "pages/dhl/分类 (1).png"
+      },
+      {
+        "pagePath": "pages/shopping/shopping",
+        "text": "购物车",
+        "iconPath": "pages/dhl/购物车.png",
+        "selectedIconPath": "pages/dhl/购物车 (1).png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "我的",
+        "iconPath": "pages/dhl/我的.png",
+        "selectedIconPath": "pages/dhl/我的 (1).png"
+      }
+    ]
+  }
+}
+
